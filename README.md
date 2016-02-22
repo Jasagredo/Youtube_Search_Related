@@ -17,4 +17,6 @@ Para el debug he utilizado también:
 
 * okhttp-logging-interceptor -> https://github.com/square/okhttp/tree/master/okhttp-logging-interceptor
 
+#### Agradecimientos
 
+Gracias a @david-perez y @MaSteve por el brazo que me echaron
